@@ -82,3 +82,9 @@ sign-language-interpreter/
 ├── requirements.txt
 ├── streamlit_app.py
 └── README.md
+
+## 🌐 Live Demo
+
+Try the deployed Indian Sign Language Interpreter:
+
+🚀 [Launch the Application](https://sign-language-interpreter-xyw9cdfu8hewdglcfocaym.streamlit.app/)
