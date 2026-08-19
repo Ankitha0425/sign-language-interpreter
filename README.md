@@ -88,3 +88,9 @@ sign-language-interpreter/
 Try the deployed Indian Sign Language Interpreter:
 
 🚀 [Launch the Application](https://sign-language-interpreter-xyw9cdfu8hewdglcfocaym.streamlit.app/)
+
+## 🌐 Live Demo
+
+🚀 **[Launch Indian Sign Language Interpreter](https://sign-language-interpreter-xyw9cdfu8hewdglcfocaym.streamlit.app/)**
+
+The application provides real-time Indian Sign Language gesture recognition through a webcam using MediaPipe and an SVM classifier.
